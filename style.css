@@ -12,7 +12,7 @@ nav ul {
 }
 
 nav li:hover {
-    font-size: 200%;
+    font-size: 150%;
     transition: all 1s ease 0s;
     list-style-type: none;
 }
@@ -25,8 +25,8 @@ header {
 }
 
 img {
-    width: 900px;
-    height: 700px;
+    width: 700px;
+    height: 500px;
 }
 
 h1 {
@@ -50,7 +50,7 @@ footer {
 }
 
 footer :hover {
-    font-size: 200%;
+    font-size: 150%;
     transition: all 1s ease 0s;
     list-style-type: none;
 }
