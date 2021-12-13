@@ -1,0 +1,60 @@
+body {
+    background-image: url(Imagens-site/fundo-de-capa-.jpg)
+}
+
+nav ul {
+    list-style-type: none;
+    font-family: 'Balsamiq Sans';
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: rgb(22, 32, 0);
+}
+
+nav li:hover {
+    font-size: 150%;
+    transition: all 1s ease 0s;
+    list-style-type: none;
+}
+
+header {
+    background-color: olivedrab;
+    text-align: center;
+    padding: 60px;
+    margin: 50px;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+}
+
+h1 {
+    color: rgb(22, 32, 0);
+    font-size: 60px;
+    font-family: 'Balsamiq Sans';
+}
+
+a {
+    color: rgb(22, 32, 0);
+}
+
+footer {
+    text-align: center;
+    background-color: olivedrab;
+    padding: 30px;
+    margin: 50px;
+    font-family: 'Balsamiq Sans';
+    color: rgb(22, 32, 0);
+    font-size: 15px;
+}
+
+footer :hover {
+    font-size: 150%;
+    transition: all 1s ease 0s;
+    list-style-type: none;
+}
+
+footer :visited {
+    color: rgb(183, 190, 197);
+}

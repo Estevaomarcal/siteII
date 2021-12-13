@@ -1,0 +1,97 @@
+body {
+    background-image: url(../Imagens-site/pf-laranja-argan.jpg);
+    margin: 0px;
+}
+
+header img {
+    width: 1300px;
+    height: 900px;
+}
+
+#Laís-argan {
+    padding: 0px;
+}
+
+.Laís {
+    width: 400px;
+    height: 500px;
+}
+
+img {
+    width: 300px;
+    height: 370px;
+    padding: 50px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Tangerine', serif;
+    font-size: 35px;
+    color: rgb(231, 220, 157);
+}
+
+#Xampu {
+    width: 300px;
+    height: 420px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#kit-profissional {
+    width: 300px;
+    height: 300px;
+}
+
+nav ul {
+    list-style-type: none;
+    font-family: 'Balsamiq Sans';
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: rgb(231, 220, 157);
+}
+
+nav li:hover {
+    background-color: rgb(43, 23, 10);
+    font-size: 130%;
+    transition: all 1s ease 0s;
+}
+
+nav a :visited {
+    color: saddlebrown;
+}
+
+footer {
+    text-align: center;
+    color: rgb(231, 220, 157);
+    font-family: 'Balsamiq Sans';
+    font-size: 15px;
+    padding: 50px;
+    background-color: rgb(255, 23, 6);
+}
+
+footer :hover {
+    background-color: rgb(43, 23, 10);
+    font-size: 130%;
+    transition: all 1s ease 0s;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(231, 220, 157);
+    font-size: 100%;
+    font-family: 'Balsamiq Sans';
+}
+
+li {
+    background-color: rgba(238, 124, 18, 0.747);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Balsamiq Sans';
+    color: rgb(43, 23, 10);
+    font-size: 60px;
+}
