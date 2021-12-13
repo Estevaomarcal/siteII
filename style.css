@@ -12,7 +12,7 @@ nav ul {
 }
 
 nav li:hover {
-    font-size: 150%;
+    font-size: 200%;
     transition: all 1s ease 0s;
     list-style-type: none;
 }
@@ -25,8 +25,8 @@ header {
 }
 
 img {
-    width: 700px;
-    height: 500px;
+    width: 900px;
+    height: 700px;
 }
 
 h1 {
@@ -46,11 +46,11 @@ footer {
     margin: 50px;
     font-family: 'Balsamiq Sans';
     color: rgb(22, 32, 0);
-    font-size: 15px;
+    font-size: 20px;
 }
 
 footer :hover {
-    font-size: 150%;
+    font-size: 200%;
     transition: all 1s ease 0s;
     list-style-type: none;
 }
